@@ -1,0 +1,6 @@
+﻿  Przeksztalcenia.cpp
+d:\opengl\openglprojekt\openglprojekt\przeksztalcenia.cpp(215): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+d:\opengl\openglprojekt\openglprojekt\przeksztalcenia.cpp(215): warning C4244: "inicjowanie": konwersja z "double" do "const float", możliwa utrata danych
+d:\opengl\openglprojekt\openglprojekt\przeksztalcenia.cpp(231): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+d:\opengl\openglprojekt\openglprojekt\przeksztalcenia.cpp(236): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+  OpenGLprojekt.vcxproj -> D:\OpenGL\OpenGLprojekt\Debug\OpenGLprojekt.exe

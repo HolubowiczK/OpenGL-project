@@ -1,0 +1,11 @@
+#version 330 core																
+layout(location=0) in vec4 polozenie;												
+layout(location=1) in vec4 kolorVS; 											
+
+out vec4 kolorFS;																	
+uniform mat4 MVPmatrix;												
+void main()
+{												
+	gl_Position = MVPmatrix * polozenie;
+	kolorFS = kolorVS;															
+}
